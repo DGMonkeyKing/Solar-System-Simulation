@@ -1,0 +1,15 @@
+	|   Distance   |      Radius      |   
+Sun	|        0mm   |        56cm      |
+Mercury	|    11600mm   |         2mm      |
+Venus	|    21600mm   |       4.8mm      |
+Earth	|    29900mm   |       5.2mm      |	Distance 7.6m -> Moon | Radius 0.3473mm 
+Mars    |    45600mm   |       2.8mm      |
+Jupiter	|  1556800mm   |        58mm      |
+Saturn	|  2854200mm   |        48mm      |
+Uranus	|  5739200mm   |        22mm      |
+Neptune |  8993400mm   |        20mm      |
+Pluto	| 11868900mm   |     0.237mm      |
+		^^
+		||_______No se han tenido en cuenta los 2 últimos 0's
+
+5000km en realidad -> 1mm en juego   ------>   1:5000000
